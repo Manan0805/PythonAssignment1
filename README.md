@@ -17,6 +17,8 @@ Handles basic arithmetic calculations
 Displays clear and readable output
 Output:
 ![img_1.png](img_1.png)
+
+
 Task 2: Personalized Greeting 
 Description
 This program takes the user's first name and last name as input, combines them into a full name, and prints a personalized greeting message.
@@ -24,5 +26,6 @@ This program takes the user's first name and last name as input, combines them i
 Accepts string input from the user
 Demonstrates string concatenation
 Outputs a friendly greeting
+
 Output:
 ![img_2.png](img_2.png)
